@@ -1,11 +1,21 @@
-Hi👋 I am Burak ÇOLAK
+# 💫 About Me:
+car<br>
 
-CSS | HTML Yazılımları biliyorum
 
-| Rainbow Six Siege | Bu oyunları oynmayı Seviyorum
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/burakcolak576) 
 
-![capsule_616x353](https://github.com/BuRaKCcx/Burak-Colak/assets/159884654/89e9f8ec-fdcc-4f43-a7c1-7910dd0d26d8)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BuRaKCcx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BuRaKCcx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BuRaKCcx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-| F1 2023 |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BuRaKCcx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![f1-2023-screenshot-1-planet-f1](https://github.com/BuRaKCcx/Burak-Colak/assets/159884654/88ce70ea-5942-4f1d-88bc-1c1ba44b459e)
+---
+[![](https://visitcount.itsvg.in/api?id=BuRaKCcx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
