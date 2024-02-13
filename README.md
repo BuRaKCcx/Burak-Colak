@@ -1,8 +1,5 @@
 Hi👋 I am Burak ÇOLAK
 
-CSS|HTML
+CSS | HTML Dillerini Seviyorum
 
-🔭 I currently work as a teacher
-🌱 I’m currently learning Angular
-📫 How to reach me: burak.colak@windowslive.com
-Connect with me
+Rainbow Six Siege | The Last Of Us | F1 2023 Bu oyunları oynmayı Seviyorum
